@@ -6,6 +6,10 @@
 
 Welcome to the official documentation for the Open Source NFT & Wallet Auth Framework for Cardano. This comprehensive guide is designed to equip developers, contributors, and users with the necessary knowledge to effectively utilize and contribute to the framework. Whether you are looking to integrate advanced authentication solutions into your decentralized applications (dApps) or simply exploring the capabilities of Cardano blockchain technology, this documentation will provide you with the tools and information needed.
 
+**FUND11 Details**
+
+[https://projectcatalyst.io/funds/11/cardano-open-developers/open-source-nft-and-wallet-auth-framework-for-cardano](https://projectcatalyst.io/funds/11/cardano-open-developers/open-source-nft-and-wallet-auth-framework-for-cardano)
+
 #### What is the Open Source NFT & Wallet Auth Framework?
 
 The Open Source NFT & Wallet Auth Framework is a JavaScript-based solution that enables seamless integration of NFT and wallet-based authentication systems into Cardano dApps. This framework simplifies the process of implementing secure and innovative authentication methods, enhancing user experience and security for blockchain applications.
