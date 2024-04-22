@@ -190,4 +190,3 @@
     * [Installing Node.js](littlefish-open-source/open-source-nft-and-wallet-auth-framework-for-cardano/requirements/installing-node.js.md)
   * [Installation](littlefish-open-source/open-source-nft-and-wallet-auth-framework-for-cardano/installation.md)
   * [How to change front page?](littlefish-open-source/open-source-nft-and-wallet-auth-framework-for-cardano/how-to-change-front-page.md)
-* [Requirements](littlefish-open-source/requirements.md)
