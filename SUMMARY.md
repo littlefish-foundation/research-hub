@@ -184,4 +184,8 @@
 
 ## Littlefish Open Source
 
-* [Open Source NFT & Wallet Auth Framework for Cardano](littlefish-open-source/open-source-nft-and-wallet-auth-framework-for-cardano.md)
+* [Open Source NFT & Wallet Auth Framework for Cardano](littlefish-open-source/open-source-nft-and-wallet-auth-framework-for-cardano/README.md)
+  * [Requirements](littlefish-open-source/open-source-nft-and-wallet-auth-framework-for-cardano/requirements/README.md)
+    * [Setting Up Your Development Environment](littlefish-open-source/open-source-nft-and-wallet-auth-framework-for-cardano/requirements/setting-up-your-development-environment.md)
+    * [Installing Node.js](littlefish-open-source/open-source-nft-and-wallet-auth-framework-for-cardano/requirements/installing-node.js.md)
+* [Requirements](littlefish-open-source/requirements.md)
