@@ -182,6 +182,6 @@
     * [Cardano Node Setup](all-docs/littlefish-tools/cardano-node-setup.md)
     * [Cardano-CLI Guide](all-docs/littlefish-tools/cardano-cli-guide.md)
 
-## Group 1
+## Littlefish Open Source
 
-* [Open Source NFT & Wallet Auth Framework for Cardano](group-1/open-source-nft-and-wallet-auth-framework-for-cardano.md)
+* [Open Source NFT & Wallet Auth Framework for Cardano](littlefish-open-source/open-source-nft-and-wallet-auth-framework-for-cardano.md)
