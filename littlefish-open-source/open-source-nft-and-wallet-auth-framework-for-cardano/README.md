@@ -8,7 +8,23 @@ Welcome to the official documentation for the Open Source NFT & Wallet Auth Fram
 
 **FUND11 Details**
 
-[https://projectcatalyst.io/funds/11/cardano-open-developers/open-source-nft-and-wallet-auth-framework-for-cardano](https://projectcatalyst.io/funds/11/cardano-open-developers/open-source-nft-and-wallet-auth-framework-for-cardano)
+**Accepted Proposal**
+
+{% embed url="https://projectcatalyst.io/funds/11/cardano-open-developers/open-source-nft-and-wallet-auth-framework-for-cardano" %}
+Cardano Catalyst FUND 11
+{% endembed %}
+
+#### Git Repo
+
+Ready to use boiler plate
+
+{% embed url="https://github.com/littlefish-foundation/boilerplate-e" %}
+Ready to use Cardano enabled Next JS App router + typescript + tailwind boilerplate
+{% endembed %}
+
+#### Live Preview
+
+{% embed url="https://boilerplate-e.vercel.app/" %}
 
 #### What is the Open Source NFT & Wallet Auth Framework?
 
