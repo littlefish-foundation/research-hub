@@ -1,49 +1,45 @@
 ---
-description: Documentation Space - Home
-cover: .gitbook/assets/litteflish BG.png
-coverY: 0
+description: >-
+  Original research on decentralized organizations, the tools that make them
+  work, DAO tools, Cardano ecosystem, the regulatory picture and more.
 ---
 
-# Littlefish Foundation
+# littlefish Research
 
-> Foundation: An organization that has been created in order to provide money for a particular group of people in need of help or for a particular type of study. Cambridge Dictionary.
+Welcome to littlefish Foundation's research hub.&#x20;
 
-> littlefish: Foundation v2
+Our research hub covers many areas yet is guided with the perspective of a decentralized organization building on the Cardano blockchain. As such it will be useful primarily to Cardano users, Cardano DAOs, and Cardano builders, but all blockchain users may find something useful here.&#x20;
 
-We live in an era where it is easier to meet knowledgeable and passionate people interested in the same things as us online rather than in real life. Littlefish Foundation was founded under these circumstances and technical infrastructure, by the gathering of like minded and like hearted individuals around the fire of Catalyst. We found out quickly that finding people and starting online communities with shared values, common goals was so simple. The problem is coordination.
+In this resource you can find information on:
 
-Almost as quickly as a global decentralized community gathers, it struggles with the tools available. Discord, Telegram, Miro, Drive and the entire suite of existing, popular tools play their roles. Yet there are no tools that solve the common problems of decentralized communities. Littlefish Platform focuses on these problems, removing friction and making decentralized collaboration more accessible to everyone.
+* In depth reviews of DAO Tools building on Cardano: [cardano-dao-tools](cardano-ecosystem/cardano-dao-tools/ "mention")
+* Feature comparisons of many Cardano wallets: [cardano-wallets](all-docs/cardano-wallets/ "mention")
+* In depth looks at some Cardano DeFi projects: [cardano-defi](all-docs/cardano-defi/ "mention")&#x20;
+* Digital work tools that help enable the type of work in DAOs: [remote-work-tools](all-docs/remote-work-tools/ "mention")
+* Analysis of many blockchain regulations from token launches to tax implications: [blockchains-and-law](blockchains-and-law/ "mention")
+* The state of cross-chain on Cardano: [cardano-cross-chain-solutions](cardano-ecosystem/cardano-cross-chain-solutions/ "mention")
+* Case studies of top DAOs, the tools they use, and their governance basics: [dao-case-studies](the-ocean-beyond-cardano/dao-case-studies/ "mention")
+* and more ...
 
-### What is littlefish Foundation
+## Project Catalyst and littlefish
 
-**TLDR**
+We are a [Project Catalyst](https://projectcatalyst.io/) powered organization. Project Catalyst is the innovation platform that funds projects building on the Cardano blockchain.
 
-**Non-technical**
+This research hub is prepared as part of three of our funded proposals in Fund 9:&#x20;
 
-**Littlefish Foundation** is the social platform with all the tools needed to build and manage communities, encourage collaboration and reward action. By using the funding mechanisms provided by blockchains, littlefish ensures that ideas are transformed into communities and valuable assets are created around these communities.
+1.  **Tools of DAO Work**: Cardano DAO Tools, wallets, and digital work tools that enable the work of DAOs.
 
-**Technical**
+    [https://cardano.ideascale.com/c/idea/64178](https://cardano.ideascale.com/c/idea/64178)
+2. **Ocean Technologies**: Cross-chain technologies on Cardano, and interesting tech from other blockchains. \
+   [https://cardano.ideascale.com/c/idea/64180](https://cardano.ideascale.com/c/idea/64180)
+3. **Law and the New Order**: Original research by the legal team at Tevetoglu Legal, analyzing the intricacies of various regulatory topics in blockchains.\
+   [https://cardano.ideascale.com/c/idea/64605](https://cardano.ideascale.com/c/idea/64605)
 
-**Littlefish Foundation** is a dAPP built on Cardano Blockchain making ideas an asset and builds communities around these ideas. Rewards collaboration and adds value to the assets by supporting them with various funding mechanisms.&#x20;
 
-&#x20;**Non technical people can easily create communities (colonies), collect funds and publish actions.**
 
-### Join the Movement
 
-{% tabs %}
-{% tab title="Discord" %}
-[https://discord.gg/tBKZd5AGUS](https://discord.gg/tBKZd5AGUS)
-{% endtab %}
 
-{% tab title="Twitter" %}
-[https://twitter.com/LittleFishDAO](https://twitter.com/LittleFishDAO)[https://discord.gg/tBKZd5AGUS](https://discord.gg/tBKZd5AGUS)
-{% endtab %}
 
-{% tab title="GitHub" %}
-[https://github.com/littlefish-foundation](https://github.com/littlefish-foundation)
-{% endtab %}
-{% endtabs %}
 
-### Sponsors
 
-[GitBook](https://www.gitbook.com/)
+

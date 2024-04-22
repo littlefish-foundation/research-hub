@@ -1,0 +1,5 @@
+# Smart Contract Development
+
+DAOs are made possible by smart contracts. A DAO in control of its smart contracts can unlock all potential benefits of blockchain technology. Cardano Smart Contract development is a difficult and time-consuming skill to master due to the usage of Plutus. The Smart Contract Development Tools can make developing your own smart contracts easier, or provide smart contract templates for you to edit to your specific needs.
+
+<table><thead><tr><th>Tool</th><th>Status<select><option value="69970deea7f543a58208a7bcdd901193" label="Online" color="blue"></option><option value="8081e585a2ce4a189e4207147d4eaf7d" label="In Development" color="blue"></option><option value="d10bab452a7e4bb2b217b48397868c39" label="Testnet" color="blue"></option></select></th></tr></thead><tbody><tr><td><a data-mention href="../../all-docs/dao-tools/cardano/agora-protocol.md">agora-protocol.md</a></td><td><span data-option="69970deea7f543a58208a7bcdd901193">Online</span></td></tr></tbody></table>
