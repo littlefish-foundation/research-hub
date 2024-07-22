@@ -193,3 +193,4 @@
   * [Milestones](littlefish-open-source/open-source-nft-and-wallet-auth-framework-for-cardano/milestones/README.md)
     * [Milestone 1](littlefish-open-source/open-source-nft-and-wallet-auth-framework-for-cardano/milestones/milestone-1.md)
     * [Milestone 3 Security Review](littlefish-open-source/open-source-nft-and-wallet-auth-framework-for-cardano/milestones/milestone-3-security-review.md)
+    * [Milestone 3 Test Review](littlefish-open-source/open-source-nft-and-wallet-auth-framework-for-cardano/milestones/milestone-3-test-review.md)
